@@ -39,3 +39,7 @@ if supernodeaddr option key is set, the value is your VCC address,like this
 **Note:**
 
 earse the difficulty bomb of mining.
+
+**Special:**
+
+gvc for windows would crash unexpectedly under main versions of windows. it is trongly recommended that main nodes and super nodes use the gvc for linux.
