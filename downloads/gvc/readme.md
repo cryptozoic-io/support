@@ -30,4 +30,12 @@ if supernodeaddr option key is set, the value is your VCC address,like this
 ---
 
 
+#### GVC **V0.2.7**
 
+| OS | file |
+| :--- | :--- |
+| linux | gvc-stable-0.2.7-linux.tar |
+
+**Note:**
+
+earse the difficulty bomb of mining.
