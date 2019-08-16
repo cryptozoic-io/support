@@ -68,5 +68,4 @@ internal upgrade
 **Note:**
 
 1.blocks need to be checked in fast sync mode. effects after 329,556.
-2.disable remote mining api
 
