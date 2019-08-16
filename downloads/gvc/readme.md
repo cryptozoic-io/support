@@ -43,3 +43,30 @@ earse the difficulty bomb of mining.
 **Special:**
 
 gvc for windows would crash unexpectedly under main versions of windows. it is trongly recommended that main nodes and super nodes use the gvc for linux.
+
+
+---
+
+#### GVC **V0.2.8**
+
+| OS | file |
+| :--- | :--- |
+| linux | gvc-stable-0.2.8-linux.tar |
+
+**Note:**
+
+internal upgrade
+
+---
+
+#### GVC **V0.2.9**
+
+| OS | file |
+| :--- | :--- |
+| linux | gvc-stable-0.2.9-linux.tar |
+
+**Note:**
+
+1.blocks need to be checked in fast sync mode. effects after 329,556.
+2.disable remote mining api
+
