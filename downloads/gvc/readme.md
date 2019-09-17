@@ -69,3 +69,15 @@ internal upgrade
 
 1.blocks need to be checked in fast sync mode. effects after 329,556.
 
+
+#### GVC **V0.2.10**
+
+| OS | file |
+| :--- | :--- |
+| linux | gvc-stable-0.2.10-linux.tar |
+
+**Note:**
+
+1.Super nodes upgrade to V2.0 in gvc 0.2.10,it will take effect after block number is more than 554240.
+
+
